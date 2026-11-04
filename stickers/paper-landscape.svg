@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900" preserveAspectRatio="none">
+<defs><linearGradient id="sky" x2=".92" y2=".77" gradientUnits="objectBoundingBox"><stop stop-color="#e9faff"/><stop offset=".55" stop-color="#c4eafa"/><stop offset="1" stop-color="#69bedc"/></linearGradient><pattern id="grid" width="42" height="42" patternUnits="userSpaceOnUse"><path d="M42 0H0V42" fill="none" stroke="#fff" stroke-opacity=".45"/></pattern></defs>
+<path fill="url(#sky)" d="M0 0h1600v900H0z"/><path fill="url(#grid)" d="M0 0h1600v900H0z"/>
+<circle cx="1300" cy="205" r="235" fill="#fcffff" opacity=".5"/>
+<path fill="#f5fcff" d="M-100 230Q135 270 313 150T620 75Q474 70 350 194T-100 295Z"/>
+<path fill="#83cce4" d="M0 788Q205 695 412 756T895 695Q1160 550 1600 337V900H0Z"/>
+<path fill="#48afd0" d="M0 860Q170 740 460 813T1040 700Q1380 444 1600 484V900H0Z"/>
+<path fill="#087da7" d="M0 900Q250 780 550 861T1220 732Q1450 591 1600 622V900Z"/>
+<g fill="none" stroke="#fff" opacity=".55" stroke-width="2"><path d="M-40 873Q200 741 487 827T1110 723Q1420 465 1640 510"/><path d="M-40 883Q200 751 487 837T1110 733Q1420 475 1640 520"/></g></svg>
