@@ -1,6 +1,6 @@
 :HL["/_next/static/css/dc08e96e9c10abe1.css","style"]
-:HL["/_next/static/css/273e6d3bb4837138.css","style"]
+:HL["/_next/static/css/f9161548ea395895.css","style"]
 3:[["children",{"s":"__PAGE__","h":160}]]
 2:[["children",{"s":{"n":"slug","t":"d","k":"pywhiz","s":[]},"h":65632,"c":"$Q3"}]]
 1:[["children",{"s":"projects","h":131168,"c":"$Q2"}]]
-0:{"b":"Of1qZs1tHqpRBwN7XjmrO","t":{"t":{"s":"","h":131152,"c":"$Q1"}}}
+0:{"b":"8AHCJu0to40KkvL2OUJBr","t":{"t":{"s":"","h":131152,"c":"$Q1"}}}
