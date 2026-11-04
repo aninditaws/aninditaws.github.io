@@ -1,5 +1,5 @@
 :HL["/_next/static/css/dc08e96e9c10abe1.css","style"]
-:HL["/_next/static/css/2b7c11e6fb05f8e7.css","style"]
+:HL["/_next/static/css/8cf17b11b9926bd7.css","style"]
 2:[["children",{"s":"__PAGE__","h":160}]]
 1:[["children",{"s":"projects","h":96,"c":"$Q2"}]]
-0:{"b":"bTyN4RNw3dJKRpIuRWbrX","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
+0:{"b":"CmhB8sH9GO49YdB0d5dE4","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
