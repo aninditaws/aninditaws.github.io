@@ -1,0 +1,4 @@
+Memo and Bar Chart illustrations by OpenMoji contributors.
+Source: https://openmoji.org/ and https://github.com/hfg-gmuend/openmoji
+Artwork licensed under CC BY-SA 4.0: https://creativecommons.org/licenses/by-sa/4.0/
+Portfolio presentation uses the original line drawings with custom colors and borders.
