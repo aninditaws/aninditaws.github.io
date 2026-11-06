@@ -1,6 +1,6 @@
 :HL["/_next/static/css/1a1128cb73b1da94.css","style"]
-:HL["/_next/static/css/ad8492b507448330.css","style"]
+:HL["/_next/static/css/93ec49717c66334a.css","style"]
 3:[["children",{"s":"__PAGE__","h":160}]]
 2:[["children",{"s":{"n":"slug","t":"d","k":"phishing-classifier","s":[]},"h":65632,"c":"$Q3"}]]
 1:[["children",{"s":"projects","h":131168,"c":"$Q2"}]]
-0:{"b":"V7bKUZsiq-1vLS5EtDIHM","t":{"t":{"s":"","h":131156,"c":"$Q1"}}}
+0:{"b":"dkbgWvV5Wn_O8ERH3RoeL","t":{"t":{"s":"","h":131156,"c":"$Q1"}}}
