@@ -1,6 +1,6 @@
 :HL["/_next/static/css/1a1128cb73b1da94.css","style"]
-:HL["/_next/static/css/601cf4f63d55a80c.css","style"]
+:HL["/_next/static/css/97ff03923d33351b.css","style"]
 3:[["children",{"s":"__PAGE__","h":160}]]
 2:[["children",{"s":{"n":"slug","t":"d","k":"retail-bi","s":[]},"h":65632,"c":"$Q3"}]]
 1:[["children",{"s":"projects","h":131168,"c":"$Q2"}]]
-0:{"b":"ygYjQELYGrSMokfG3otGT","t":{"t":{"s":"","h":131156,"c":"$Q1"}}}
+0:{"b":"PNVRVbjzLmIrIL4ktcMv1","t":{"t":{"s":"","h":131156,"c":"$Q1"}}}
