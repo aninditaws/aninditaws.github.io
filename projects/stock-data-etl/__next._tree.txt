@@ -1,6 +1,6 @@
 :HL["/_next/static/css/1a1128cb73b1da94.css","style"]
-:HL["/_next/static/css/97ff03923d33351b.css","style"]
+:HL["/_next/static/css/f38656aab3da9376.css","style"]
 3:[["children",{"s":"__PAGE__","h":160}]]
 2:[["children",{"s":{"n":"slug","t":"d","k":"stock-data-etl","s":[]},"h":65632,"c":"$Q3"}]]
 1:[["children",{"s":"projects","h":131168,"c":"$Q2"}]]
-0:{"b":"PNVRVbjzLmIrIL4ktcMv1","t":{"t":{"s":"","h":131156,"c":"$Q1"}}}
+0:{"b":"z8nMbu5kU3NO4pWVpdZnG","t":{"t":{"s":"","h":131156,"c":"$Q1"}}}
