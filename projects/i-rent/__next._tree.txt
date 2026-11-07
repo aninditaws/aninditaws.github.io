@@ -1,6 +1,6 @@
 :HL["/_next/static/css/20bca64e6a8c7dee.css","style"]
-:HL["/_next/static/css/0985e26ea9dcaceb.css","style"]
+:HL["/_next/static/css/d236a7ea58b24d41.css","style"]
 3:[["children",{"s":"__PAGE__","h":160}]]
 2:[["children",{"s":{"n":"slug","t":"d","k":"i-rent","s":[]},"h":65632,"c":"$Q3"}]]
 1:[["children",{"s":"projects","h":131168,"c":"$Q2"}]]
-0:{"b":"9qRl0IuLlCa1-f81Ji_8h","t":{"t":{"s":"","h":131156,"c":"$Q1"}}}
+0:{"b":"yzoabWuYdIHzSpIg1Z9Ov","t":{"t":{"s":"","h":131156,"c":"$Q1"}}}
