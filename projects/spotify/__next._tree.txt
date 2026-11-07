@@ -1,6 +1,6 @@
 :HL["/_next/static/css/20bca64e6a8c7dee.css","style"]
-:HL["/_next/static/css/5d8971f88f1c5c7e.css","style"]
+:HL["/_next/static/css/367293b16abc40dc.css","style"]
 3:[["children",{"s":"__PAGE__","h":160}]]
 2:[["children",{"s":{"n":"slug","t":"d","k":"spotify","s":[]},"h":65632,"c":"$Q3"}]]
 1:[["children",{"s":"projects","h":131168,"c":"$Q2"}]]
-0:{"b":"GnAwqk6t9E5qIM7bv433s","t":{"t":{"s":"","h":131156,"c":"$Q1"}}}
+0:{"b":"X7i5pjin9u6yOVUsB8vpE","t":{"t":{"s":"","h":131156,"c":"$Q1"}}}
