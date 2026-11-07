@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="960" viewBox="0 0 1440 960" fill="none">
+<!-- Sparse margin doodles, intentionally kept off the central reading surface. -->
+<g stroke="#0593c6" stroke-width="2" opacity=".24" stroke-linecap="round"><path d="M18 155c45-39 67 22 30 32-29 8-25-27 3-17"/><path d="M1401 610c-42-35-60 10-32 30 29 20 50-7 30-21"/><path d="M29 800l16-25 13 13 20-35"/></g>
+<g fill="#d83995" opacity=".25"><path d="M1381 280l5 15 15 5-15 5-5 15-5-15-15-5 15-5z"/><path d="M45 500l4 12 12 4-12 4-4 12-4-12-12-4 12-4z"/></g>
+<g stroke="#d83995" stroke-width="2" opacity=".2"><ellipse cx="1400" cy="860" rx="10" ry="22" transform="rotate(30 1400 860)"/><path d="M10 44l45 8M15 35l40 8"/></g></svg>
